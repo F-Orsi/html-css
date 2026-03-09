@@ -11,7 +11,7 @@
 - git config --global user.name
 - git config --global user.email
 - git branch -m main
-- git remote add origin <github link>
+- git remote add origin https://github.com/F-Orsi/html-css.git
 - git pull origin main
 
 ## upload to cloud
@@ -22,4 +22,5 @@
 ## how to download to my pc
 - git init
 - git branch -m main
-- git remote add origin
+- git remote add origin https://github.com/F-Orsi/html-css.git
+- git pull origin main
