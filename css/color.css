@@ -1,0 +1,30 @@
+ body {
+            background-color: rgb(210, 230, 225);
+            padding-left: 20px;
+        }
+
+        p {
+            list-height: 20pt;
+            text-align: justify;
+            font-size: 15pt;
+            color: cornflowerblue;
+            letter-spacing: 1px;
+        }
+
+        h2 {
+            padding-left: 200px;
+            border: 1px solid;
+        }
+
+        img {
+            width: 1000px;
+        }
+
+        a {
+            text-decoration: none;
+            background-color: aquamarine;
+        }
+
+        a:hover {
+            background-color: rgb(250, 2, 147);
+        }
